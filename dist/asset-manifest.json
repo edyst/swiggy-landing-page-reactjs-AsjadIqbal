@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.245fa767.chunk.css",
+    "main.js": "/static/js/main.cab5d442.chunk.js",
+    "main.js.map": "/static/js/main.cab5d442.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2f4847dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2f4847dd.js.map",
+    "static/js/2.83b709d0.chunk.js": "/static/js/2.83b709d0.chunk.js",
+    "static/js/2.83b709d0.chunk.js.map": "/static/js/2.83b709d0.chunk.js.map",
+    "static/js/3.6cf8c413.chunk.js": "/static/js/3.6cf8c413.chunk.js",
+    "static/js/3.6cf8c413.chunk.js.map": "/static/js/3.6cf8c413.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.245fa767.chunk.css.map": "/static/css/main.245fa767.chunk.css.map",
+    "static/js/2.83b709d0.chunk.js.LICENSE.txt": "/static/js/2.83b709d0.chunk.js.LICENSE.txt",
+    "static/media/hero.css": "/static/media/Lun.70d3f77a.jpeg",
+    "static/media/Lunch.f2f26689.jpeg": "/static/media/Lunch.f2f26689.jpeg",
+    "static/media/Swiggy_logo.88e6528c.png": "/static/media/Swiggy_logo.88e6528c.png",
+    "static/media/rsec1.5c564601.png": "/static/media/rsec1.5c564601.png",
+    "static/media/rsec2.8c94aa21.png": "/static/media/rsec2.8c94aa21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f4847dd.js",
+    "static/js/2.83b709d0.chunk.js",
+    "static/css/main.245fa767.chunk.css",
+    "static/js/main.cab5d442.chunk.js"
+  ]
+}
