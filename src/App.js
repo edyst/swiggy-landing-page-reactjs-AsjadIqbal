@@ -7,7 +7,8 @@ import Footer from './Components/Footer/footer'
 import './App.css';
 import './Components/FontAwesome'
 
-
+// This is a trial comment
+// Local changes
 function App() {
   return (
     <div className="body">
